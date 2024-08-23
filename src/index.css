@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* @layer components {
+
+  .norm {
+    @apply hover:text-blazeorange100 transition ease-in-out duration-300
+  }
+  
+  .activelink {
+    @apply text-blazeorange pb-30 relative before:absolute before:content-*  before:h-2 before:w-full before:left-0 before:bottom-0 before:bg-gradient-to-r from-razzmatazz to-blazeorange100
+  }
+
+} */
